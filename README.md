@@ -11,3 +11,5 @@ Using a while loop, to ensure the file is not at it's end, the text is looped th
 Then the corresponding message and values are printed to the user, depending on the ammount of nubers they've inputted, before the file is closed.
 
 Finally the file is closed and the user is asked if they would like to go again. 
+
+This is made to practice the basics in C of loops, files, if/else etc.
